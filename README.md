@@ -12,6 +12,6 @@ This project analyzes Google Play Store data using Python to gain insights into 
 ### Installation
 Clone the repository and install required libraries:
 ```sh
-git clone https://github.com/your-username/Google-Playstore-Analytics.git
+git clone https://github.com/Vijayalakshmi-11/Data-Analyst-Internship.git
 cd Data-Analyst-Internship
 pip install -r requirements.txt
